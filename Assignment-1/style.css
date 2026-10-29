@@ -1,0 +1,198 @@
+/* Koko sivu */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f3fc;
+}
+
+/* Sivun yhteinen leveys */
+
+.page-container {
+    width: 80%;
+    margin: 30px auto 0;
+}
+
+/* Ylävalikko */
+
+.navbar {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+    background-color: #dddddd;
+}
+
+.logo {
+    width: 210px;
+    background-color: #888888;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+.nav-links {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-links a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* Etusivu */
+
+.home-container {
+    width: 100%;
+    margin: 0;
+    padding: 60px 30px;
+    background-color: #eee3f7;
+    text-align: center;
+}
+
+.home-container h1 {
+    font-size: 42px;
+    margin-bottom: 25px;
+}
+
+.home-container img {
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    height: auto;
+    margin: 20px auto;
+}
+
+.home-container p {
+    max-width: 900px;
+    margin: 25px auto 0;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+/* Products-sivun iso kuva */
+
+.products-intro {
+    background-color: #eee3f5;
+    text-align: center;
+    padding: 0 30px 30px;
+}
+
+.products-intro img {
+    display: block;
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.products-intro p {
+    max-width: 900px;
+    margin: 20px auto 0;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Products-otsikko */
+
+.page-container > h1 {
+    text-align: center;
+    margin: 30px 0;
+}
+
+/* Tuotteet */
+
+.products-container {
+    display: flex;
+    gap: 20px;
+    background-color: #eee3f5;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.product {
+    flex: 1;
+    min-width: 0;
+    background-color: #f0e0e8;
+    padding: 25px;
+    text-align: center;
+}
+
+.product h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.product img {
+    display: block;
+    width: 100%;
+    max-width: 220px;
+    height: 300px;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+.product p {
+    font-size: 16px;
+    line-height: 1.7;
+    text-align: left;
+    margin-top: 20px;
+}
+
+/* Contact-sivu */
+
+.contact-container {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+.contact-info {
+    width: 40%;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.contact-info h2 {
+    font-size: 24px;
+}
+
+.map {
+    width: 60%;
+}
+
+.map img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+
+/* Test results screenshots */
+.results-container img {
+    display: block;
+    width: 100%;
+    max-width: 650px;
+    height: auto;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.results-container {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 30px;
+}
