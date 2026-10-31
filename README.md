@@ -13,15 +13,15 @@
 Completed assignments:
 
 - Task 1: 1 p
-- Task 2: 1 p
-- Task 3: 1 p
+- Task 2: 2 p
+- Task 3: 3 p
 - Task 4: 3 p
 - Task 5: 3 p
-- Task 6: 2 p
-- Task 7: 2 p
+- Task 6: 3 p
+- Task 7: 3 p
 - Task 8: 3 p
 
-**Total: 16 p**
+**Total: 21 p**
 
 Notes: Tasks 1–8 completed and tested in the browser.
 
