@@ -1,4 +1,4 @@
-# # Edona Ademi
+# Edona Ademi
 
 ## Software 2 programming assignments
 
@@ -33,6 +33,20 @@ Notes: Tasks 1–8 completed and tested in the browser.
 
 ### JS module 3
 
+[My link to JS module 3](https://users.metropolia.fi/~edonaad/JS3/)
+
 Completed assignments:
 
-Not started yet.
+- Task 1: 2 p
+- Task 2: 2 p
+- Task 3: 2 p
+- Task 4: 2 p
+- Task 5: 2 p
+- Task 6: 2 p
+- Task 7: 2 p
+- Task 8: 2 p
+- Task 9: 3 p
+
+**Total: 19 p**
+
+Notes: Tasks 1–9 completed and uploaded to Webdisk.
