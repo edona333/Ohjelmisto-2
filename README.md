@@ -50,3 +50,23 @@ Completed assignments:
 **Total: 19 p**
 
 Notes: Tasks 1–9 completed and uploaded to Webdisk.
+
+---
+
+### JS module 4 – DOM and events
+
+[My link to JS module 4](https://users.metropolia.fi/~edonaad/JS4/)
+
+Completed assignments:
+
+- Task 1: 2 p
+- Task 2: 2 p
+- Task 3: 2 p
+- Task 4: 2 p
+- Task 5: 5 p
+- Task 6: 1 p
+- Task 7: 2 p
+
+**Total: 16 p**
+
+Notes: Tasks 1–7 completed and tested in the browser.
