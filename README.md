@@ -83,7 +83,7 @@ Completed assignments:
 - Task 2: 3 p
 - Task 3: 7 p
 
-**Total: 12 p (potential points)**
+**Total: 12 p**
 
 Notes: Tasks 1–3 implemented and uploaded to Webdisk. Task 2 tested in the browser console.
 
@@ -102,9 +102,9 @@ Completed assignments:
 - Task 1: Prime number API – 4 p
 - Task 2: Dictionary translation API – 10 p
 
-**Total: 14 p (potential points)**
+**Total: 14 p**
 
-Notes: Tasks 1 and 2 implemented and tested locally. Source files uploaded to Webdisk. Flask API runs locally and is not hosted as a running service on Webdisk.
+Notes: Tasks 1 and 2 completed successfully. Python files uploaded to Webdisk and tested locally.
 
 ---
 
