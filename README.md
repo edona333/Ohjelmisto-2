@@ -70,3 +70,50 @@ Completed assignments:
 **Total: 16 p**
 
 Notes: Tasks 1–7 completed and tested in the browser.
+
+---
+
+### JS module 5 – AJAX
+
+[My link to JS module 5](https://users.metropolia.fi/~edonaad/JS5/)
+
+Completed assignments:
+
+- Task 1: 2 p
+- Task 2: 3 p
+- Task 3: 7 p
+
+**Total: 12 p (potential points)**
+
+Notes: Tasks 1–3 implemented and uploaded to Webdisk. Task 2 tested in the browser console.
+
+---
+
+### Python Flask – Server assignments
+
+[My link to Python Flask source files](https://users.metropolia.fi/~edonaad/flask_tasks/)
+
+[My link to Flask app.py](https://users.metropolia.fi/~edonaad/flask_tasks/app.py)
+
+[My link to dictionary.json](https://users.metropolia.fi/~edonaad/flask_tasks/dictionary.json)
+
+Completed assignments:
+
+- Task 1: Prime number API – 4 p
+- Task 2: Dictionary translation API – 10 p
+
+**Total: 14 p (potential points)**
+
+Notes: Tasks 1 and 2 implemented and tested locally. Source files uploaded to Webdisk. Flask API runs locally and is not hosted as a running service on Webdisk.
+
+---
+
+### Points summary
+
+- JS modules 1 and 2: 21 p
+- JS module 3: 19 p
+- JS module 4: 16 p
+- JS module 5: 12 p
+- Python Flask: 14 p
+
+**Total: 82 p (reported and potential points)**
