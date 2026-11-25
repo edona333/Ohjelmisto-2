@@ -84,10 +84,11 @@ Completed assignments:
 - Task 3: 7 p
 - Task 4: 2 p
 - Task 5: 2 p
+- Task 6: 4 p
 
-**Total: 16 p**
+**Total: 20 p**
 
-Notes: Tasks 1–5 implemented. Task 5 tested successfully in the browser console.
+Notes: Tasks 1–6 completed and tested in the browser.
 
 ---
 
@@ -115,7 +116,7 @@ Notes: Tasks 1 and 2 completed successfully. Python files uploaded to Webdisk an
 - JS modules 1 and 2: 21 p
 - JS module 3: 19 p
 - JS module 4: 16 p
-- JS module 5: 16 p
+- JS module 5: 20 p
 - Python Flask: 14 p
 
-**Total: 86 p**
+**Total: 90 p**
